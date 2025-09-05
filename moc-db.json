@@ -1,0 +1,498 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Stave",
+      "description": "Seorang developer backend yang sangat teliti pada detail kode."
+    },
+    {
+      "id": "2",
+      "name": "Alicia",
+      "description": "UI/UX designer yang suka bereksperimen dengan warna pastel."
+    },
+    {
+      "id": "3",
+      "name": "Rafael",
+      "description": "Project manager yang disiplin dan gemar membuat timeline."
+    },
+    {
+      "id": "4",
+      "name": "Mika",
+      "description": "Front-end engineer yang suka membuat animasi interaktif."
+    },
+    {
+      "id": "5",
+      "name": "Darren",
+      "description": "Software tester yang teliti dan sering menemukan bug kritis."
+    },
+    {
+      "id": "6",
+      "name": "Selina",
+      "description": "Content writer yang punya gaya bahasa persuasif dan ringan."
+    },
+    {
+      "id": "7",
+      "name": "Oscar",
+      "description": "Database administrator yang gemar query SQL."
+    },
+    {
+      "id": "8",
+      "name": "Nadya",
+      "description": "Marketing specialist yang aktif di media sosial."
+    },
+    {
+      "id": "9",
+      "name": "Evan",
+      "description": "Mobile app developer dengan fokus pada Android."
+    },
+    {
+      "id": "10",
+      "name": "Tania",
+      "description": "HR yang ramah dan suka mendengarkan cerita karyawan."
+    },
+    {
+      "id": "11",
+      "name": "Hugo",
+      "description": "DevOps engineer yang suka automation dan CI/CD pipeline."
+    },
+    {
+      "id": "12",
+      "name": "Clara",
+      "description": "Business analyst yang sering menemukan peluang baru."
+    },
+    {
+      "id": "13",
+      "name": "Leon",
+      "description": "AI researcher yang hobi membaca paper teknologi terbaru."
+    },
+    {
+      "id": "14",
+      "name": "Isabelle",
+      "description": "Graphic designer yang ahli dalam ilustrasi digital."
+    },
+    {
+      "id": "15",
+      "name": "Felix",
+      "description": "Intern yang bersemangat belajar teknologi web modern."
+    },
+    {
+      "id": "16",
+      "name": "Sophie",
+      "description": "Customer service yang sabar melayani pertanyaan rumit."
+    },
+    {
+      "id": "17",
+      "name": "Victor",
+      "description": "Cybersecurity specialist yang waspada terhadap ancaman hacker."
+    },
+    {
+      "id": "18",
+      "name": "Amara",
+      "description": "Data scientist yang suka mencari pola dari data besar."
+    },
+    {
+      "id": "19",
+      "name": "Julian",
+      "description": "Software architect dengan pengalaman lebih dari 10 tahun."
+    },
+    {
+      "id": "20",
+      "name": "Luna",
+      "description": "Animator kreatif yang gemar membuat karakter unik."
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "name": "Wireless Headphones",
+      "description": "Headphone wireless dengan kualitas suara jernih dan bass yang dalam.",
+      "rating": 4.5,
+      "price": 750000,
+      "stock": 25,
+      "category": "Electronics"
+    },
+    {
+      "id": "2",
+      "name": "Smart Watch",
+      "description": "Jam tangan pintar dengan fitur detak jantung, langkah harian, dan notifikasi.",
+      "rating": 4.2,
+      "price": 1250000,
+      "stock": 10,
+      "category": "Wearables"
+    },
+    {
+      "id": "3",
+      "name": "Gaming Mouse",
+      "description": "Mouse gaming dengan sensor presisi tinggi dan pencahayaan RGB.",
+      "rating": 4.7,
+      "price": 350000,
+      "stock": 50,
+      "category": "Accessories"
+    },
+    {
+      "id": "4",
+      "name": "Bluetooth Speaker",
+      "description": "Speaker portable dengan suara jernih dan baterai tahan lama.",
+      "rating": 4.3,
+      "price": 499000,
+      "stock": 30,
+      "category": "Audio"
+    },
+    {
+      "id": "5",
+      "name": "Mechanical Keyboard",
+      "description": "Keyboard mekanikal dengan switch tactile dan backlight LED.",
+      "rating": 4.8,
+      "price": 890000,
+      "stock": 15,
+      "category": "Accessories"
+    },
+    {
+      "id": "6",
+      "name": "Laptop Stand",
+      "description": "Stand aluminium untuk menjaga kenyamanan saat bekerja dengan laptop.",
+      "rating": 4.4,
+      "price": 199000,
+      "stock": 40,
+      "category": "Accessories"
+    },
+    {
+      "id": "7",
+      "name": "LED Monitor 24 inch",
+      "description": "Monitor Full HD dengan layar IPS dan refresh rate 75Hz.",
+      "rating": 4.6,
+      "price": 2100000,
+      "stock": 20,
+      "category": "Electronics"
+    },
+    {
+      "id": "8",
+      "name": "Power Bank 20000mAh",
+      "description": "Power bank kapasitas besar dengan fast charging 22.5W.",
+      "rating": 4.5,
+      "price": 320000,
+      "stock": 60,
+      "category": "Electronics"
+    },
+    {
+      "id": "9",
+      "name": "Portable Fan",
+      "description": "Kipas angin mini portable USB dengan 3 kecepatan.",
+      "rating": 4.1,
+      "price": 120000,
+      "stock": 35,
+      "category": "Home"
+    },
+    {
+      "id": "10",
+      "name": "Digital Camera",
+      "description": "Kamera digital 20MP dengan layar flip dan video Full HD.",
+      "rating": 4.3,
+      "price": 3100000,
+      "stock": 12,
+      "category": "Electronics"
+    },
+    {
+      "id": "11",
+      "name": "Wireless Charger",
+      "description": "Charger wireless 15W kompatibel dengan berbagai smartphone.",
+      "rating": 4.2,
+      "price": 185000,
+      "stock": 45,
+      "category": "Accessories"
+    },
+    {
+      "id": "12",
+      "name": "Smartphone Case",
+      "description": "Casing pelindung anti-shock dengan desain stylish.",
+      "rating": 4,
+      "price": 75000,
+      "stock": 80,
+      "category": "Accessories"
+    },
+    {
+      "id": "13",
+      "name": "Fitness Tracker",
+      "description": "Tracker kebugaran dengan sensor langkah dan kalori.",
+      "rating": 4.3,
+      "price": 299000,
+      "stock": 25,
+      "category": "Wearables"
+    },
+    {
+      "id": "14",
+      "name": "Drone Mini",
+      "description": "Drone mini dengan kamera HD dan kontrol jarak jauh.",
+      "rating": 4.4,
+      "price": 950000,
+      "stock": 18,
+      "category": "Electronics"
+    },
+    {
+      "id": "15",
+      "name": "Coffee Maker",
+      "description": "Mesin kopi otomatis dengan fitur timer.",
+      "rating": 4.5,
+      "price": 870000,
+      "stock": 10,
+      "category": "Home"
+    },
+    {
+      "id": "16",
+      "name": "Backpack",
+      "description": "Tas ransel anti air dengan kompartemen laptop.",
+      "rating": 4.6,
+      "price": 275000,
+      "stock": 35,
+      "category": "Fashion"
+    },
+    {
+      "id": "17",
+      "name": "Running Shoes",
+      "description": "Sepatu lari ringan dan nyaman dengan bantalan empuk.",
+      "rating": 4.7,
+      "price": 650000,
+      "stock": 28,
+      "category": "Sports"
+    },
+    {
+      "id": "18",
+      "name": "Sunglasses",
+      "description": "Kacamata hitam UV400 dengan desain trendy.",
+      "rating": 4.3,
+      "price": 180000,
+      "stock": 55,
+      "category": "Fashion"
+    },
+    {
+      "id": "19",
+      "name": "Cookware Set",
+      "description": "Set peralatan masak non-stick 6 pcs.",
+      "rating": 4.5,
+      "price": 420000,
+      "stock": 20,
+      "category": "Home"
+    },
+    {
+      "id": "20",
+      "name": "Vacuum Cleaner",
+      "description": "Vacuum cleaner portable dengan daya hisap kuat.",
+      "rating": 4.4,
+      "price": 1350000,
+      "stock": 14,
+      "category": "Home"
+    },
+    {
+      "id": "21",
+      "name": "E-book Reader",
+      "description": "Reader e-book dengan layar e-ink 6 inch.",
+      "rating": 4.6,
+      "price": 1900000,
+      "stock": 11,
+      "category": "Electronics"
+    },
+    {
+      "id": "22",
+      "name": "Water Bottle",
+      "description": "Botol minum stainless steel dengan insulasi panas/dingin.",
+      "rating": 4.8,
+      "price": 120000,
+      "stock": 70,
+      "category": "Sports"
+    },
+    {
+      "id": "23",
+      "name": "Yoga Mat",
+      "description": "Matras yoga anti slip dengan bahan ramah lingkungan.",
+      "rating": 4.7,
+      "price": 210000,
+      "stock": 40,
+      "category": "Sports"
+    },
+    {
+      "id": "24",
+      "name": "Travel Mug",
+      "description": "Mug stainless portable tahan panas.",
+      "rating": 4.2,
+      "price": 95000,
+      "stock": 65,
+      "category": "Home"
+    },
+    {
+      "id": "25",
+      "name": "Smart TV 43 inch",
+      "description": "Smart TV dengan resolusi 4K UHD dan OS Android.",
+      "rating": 4.6,
+      "price": 4250000,
+      "stock": 9,
+      "category": "Electronics"
+    },
+    {
+      "id": "26",
+      "name": "Desk Lamp",
+      "description": "Lampu meja LED dengan brightness adjustable.",
+      "rating": 4.4,
+      "price": 155000,
+      "stock": 33,
+      "category": "Home"
+    },
+    {
+      "id": "27",
+      "name": "Book - Learn JavaScript",
+      "description": "Buku pemrograman JavaScript untuk pemula.",
+      "rating": 4.9,
+      "price": 185000,
+      "stock": 22,
+      "category": "Books"
+    },
+    {
+      "id": "28",
+      "name": "Book - Master Python",
+      "description": "Panduan komprehensif bahasa Python.",
+      "rating": 4.8,
+      "price": 200000,
+      "stock": 18,
+      "category": "Books"
+    },
+    {
+      "id": "29",
+      "name": "Casual T-Shirt",
+      "description": "Kaos cotton nyaman dipakai sehari-hari.",
+      "rating": 4.2,
+      "price": 95000,
+      "stock": 55,
+      "category": "Fashion"
+    },
+    {
+      "id": "30",
+      "name": "Hoodie Jacket",
+      "description": "Jaket hoodie fleece hangat dan stylish.",
+      "rating": 4.5,
+      "price": 280000,
+      "stock": 28,
+      "category": "Fashion"
+    },
+    {
+      "id": "31",
+      "name": "Gaming Chair",
+      "description": "Kursi gaming ergonomis dengan adjustable height.",
+      "rating": 4.7,
+      "price": 2150000,
+      "stock": 12,
+      "category": "Accessories"
+    },
+    {
+      "id": "32",
+      "name": "Smart Light Bulb",
+      "description": "Bohlam pintar dengan kontrol via aplikasi.",
+      "rating": 4.3,
+      "price": 99000,
+      "stock": 45,
+      "category": "Home"
+    },
+    {
+      "id": "33",
+      "name": "Earbuds Pro",
+      "description": "Earbuds dengan noise cancellation dan baterai panjang.",
+      "rating": 4.6,
+      "price": 1350000,
+      "stock": 20,
+      "category": "Audio"
+    },
+    {
+      "id": "34",
+      "name": "Action Camera",
+      "description": "Kamera aksi 4K tahan air.",
+      "rating": 4.5,
+      "price": 2500000,
+      "stock": 8,
+      "category": "Electronics"
+    },
+    {
+      "id": "35",
+      "name": "Tripod Stand",
+      "description": "Tripod aluminium ringan untuk kamera dan smartphone.",
+      "rating": 4.4,
+      "price": 175000,
+      "stock": 37,
+      "category": "Accessories"
+    },
+    {
+      "id": "36",
+      "name": "Board Game",
+      "description": "Permainan papan seru untuk keluarga dan teman.",
+      "rating": 4.2,
+      "price": 260000,
+      "stock": 16,
+      "category": "Toys"
+    },
+    {
+      "id": "37",
+      "name": "Chocolate Box",
+      "description": "Cokelat assorted premium 12 pcs.",
+      "rating": 4.8,
+      "price": 99000,
+      "stock": 60,
+      "category": "Food"
+    },
+    {
+      "id": "38",
+      "name": "Instant Noodle Pack",
+      "description": "Paket mie instan isi 40 pcs.",
+      "rating": 4.5,
+      "price": 110000,
+      "stock": 100,
+      "category": "Food"
+    },
+    {
+      "id": "39",
+      "name": "Office Chair",
+      "description": "Kursi kantor ergonomis dengan bantalan empuk.",
+      "rating": 4.6,
+      "price": 1850000,
+      "stock": 14,
+      "category": "Home"
+    },
+    {
+      "id": "40",
+      "name": "Camping Tent",
+      "description": "Tenda camping 4 orang, tahan air, mudah dipasang.",
+      "rating": 4.7,
+      "price": 1250000,
+      "stock": 9,
+      "category": "Sports"
+    }
+  ],
+  "todos": [
+    {
+      "id": "1",
+      "name": "akbar",
+      "title": "belajar react",
+      "completed": true
+    },
+    {
+      "id": "f4ba",
+      "name": "rezamek",
+      "title": "",
+      "completed": ""
+    },
+    {
+      "id": "3bff",
+      "name": "akbar kurkur",
+      "title": "",
+      "completed": ""
+    },
+    {
+      "id": "eeab",
+      "name": "",
+      "title": "slakfhaoskfhof",
+      "completed": "slakfhaoskfhof"
+    },
+    {
+      "id": "db9f",
+      "name": "",
+      "title": "belajar coding",
+      "completed": "belajar coding"
+    }
+  ]
+}
